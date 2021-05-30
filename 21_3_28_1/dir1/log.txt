@@ -1,0 +1,3 @@
+hello world: write!
+hello world: printf
+hello world: fprintf
