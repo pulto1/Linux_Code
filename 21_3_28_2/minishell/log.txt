@@ -1,0 +1,5 @@
+log.txt
+Makefile
+myshell
+myshell.c
+leo      pts/0        2021-06-02 09:55 (117.36.103.92)
